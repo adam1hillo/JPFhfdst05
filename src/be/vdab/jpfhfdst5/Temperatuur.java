@@ -1,6 +1,6 @@
 package be.vdab.jpfhfdst5;
 
-public class Main {
+public class Temperatuur {
     public static void main(String[] args) {
         float tempCelsius = 37.0F;
         float tempFahr = tempCelsius * 9 / 5 + 32;
